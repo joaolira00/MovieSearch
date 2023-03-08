@@ -6,7 +6,7 @@ O **Movieverse** é um projeto desenvolvido por João Victor Lira, que utiliza a
 
 Para a utilização do projeto, é necessária a instalação do [NodeJS](https://nodejs.org/en/).
 
-# Tecnologias e Frameworks utilizados no desenvolvimento
+# Tecnologias e Frameworks utilizados no desenvolvimento:
 
 [NodeJs](https://nodejs.org/en/)
 Biblioteca [Axios](https://axios-http.com/ptbr/docs/intro)
