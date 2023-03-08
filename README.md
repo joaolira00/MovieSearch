@@ -9,8 +9,12 @@ Para a utilização do projeto, é necessária a instalação do [NodeJS](https:
 # Tecnologias e Frameworks utilizados no desenvolvimento:
 
 [NodeJs](https://nodejs.org/en/)
+--
 Biblioteca [Axios](https://axios-http.com/ptbr/docs/intro)
+--
 [ReactJs](https://pt-br.reactjs.org/)
+--
+[VSCode](https://code.visualstudio.com/)
 
 # Como rodar a aplicação:
 
