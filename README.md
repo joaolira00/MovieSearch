@@ -1,4 +1,4 @@
-# Movieverse
+Alt-H1 Movieverse
 
 O **Movieverse** é um projeto desenvolvido por João Victor Lira, que utiliza a API do OMDb(Open Movie Database) para mostrar informações sobre filmes. Com este projeto, os usuários podem pesquisar filmes por título e obter detalhes sobre o filme, como a sinopse, gênero, classificação, elenco dentre outros.
 
@@ -18,15 +18,15 @@ Biblioteca [Axios](https://axios-http.com/ptbr/docs/intro)
 
 # Como rodar a aplicação:
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/joaolira00/MovieSearch
 
-# Acesse a pasta do projeto no cmd
-$ cd MovieSearch
+1  Clone este repositório
+ * git clone https://github.com/joaolira00/MovieSearch
 
-# Instale as dependências
-$ npm install
+2 Acesse a pasta do projeto no cmd
+ * cd MovieSearch
 
-# Execute o servidor da aplicação
-$ npm start
+3 Instale as dependências
+ * npm install
+
+4 Execute o servidor da aplicação
+ * npm start
