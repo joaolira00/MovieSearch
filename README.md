@@ -1,4 +1,4 @@
-Alt-H1 Movieverse
+# Movieverse
 
 O **Movieverse** é um projeto desenvolvido por João Victor Lira, que utiliza a API do OMDb(Open Movie Database) para mostrar informações sobre filmes. Com este projeto, os usuários podem pesquisar filmes por título e obter detalhes sobre o filme, como a sinopse, gênero, classificação, elenco dentre outros.
 
@@ -15,6 +15,7 @@ Biblioteca [Axios](https://axios-http.com/ptbr/docs/intro)
 [ReactJs](https://pt-br.reactjs.org/)
 --
 [VSCode](https://code.visualstudio.com/)
+--
 
 # Como rodar a aplicação:
 
