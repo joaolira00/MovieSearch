@@ -1,0 +1,22 @@
+.movieposter {
+    display: flex;
+    justify-content: end;
+    margin-top: -390px;
+
+}
+
+.poster {
+    display: flex;
+    flex-direction: column;
+    align-content: baseline;
+
+
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    width: 700px;
+    margin-right: 500px;
+}
